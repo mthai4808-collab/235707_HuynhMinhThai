@@ -36,3 +36,8 @@ cd frontend
 npm install
 npm run dev
 ```
+## 5. Thông tin triển khai
+- **URL Frontend (Render):** https://web-235707.onrender.com
+- **URL Backend API (Render):** https://api-235707.onrender.com
+- **Docker Hub Frontend:** https://hub.docker.com/r/mthai4808/frontend
+- **Docker Hub Backend:** https://hub.docker.com/r/mthai4808/backend
